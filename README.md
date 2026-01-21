@@ -11,8 +11,9 @@ Atualmente, estou operando no **Instituto de Física da UFAL**, investigando com
 **📡 Orientador:** Prof. Dr. Marcelo Leite Lyra
 - ☕ **Nível de Cafeína:** 85% (Operacional)
 - 🐛 **Sistemas Defeituosos Silenciados:** 42 (e contando...)
- Detectou uma falha na realidade ou no código?
-[![Reportar Glitch](https://img.shields.io/badge/REPORTAR_GLITCH_NA_MATRIX-d00000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euudin/https://github.com/Euudin/issues/new?title=Glitch%20Detectado%3A%20&body=Descreva%20a%20anomalia%20encontrada%20neste%20setor%20da%20realidade.)
+
+Detectou uma falha na realidade ou no código?
+[![Reportar Glitch](https://img.shields.io/badge/REPORTAR_GLITCH_NA_MATRIX-d00000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euudin/Euudin/issues/new?title=Glitch%20Detectado%3A%20&body=Descreva%20a%20anomalia%20encontrada%20neste%20setor%20da%20realidade.)
 
 #### 🎯 Objetivos da Pesquisa
 O foco é o desenvolvimento de dispositivos tecnológicos baseados no controle de ondas em matéria condensada:
@@ -44,7 +45,7 @@ Se você deseja discutir a não-linearidade do tempo ou apenas enviar uma "comun
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/elder-emmanuel-pereira-da-silva-069465280/))
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:elder.silva@fis.ufal.br)
-- 📄 **Acesse meu Lattes:** [Link para o Lattes](http://lattes.cnpq.br/3136018709878801)
+- [![Lattes](https://img.shields.io/badge/Lattes-CV-00559C?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/3136018709878801)
 
 ---
 *"Silenciando sistemas defeituosos, um commit de cada vez."*
