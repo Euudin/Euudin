@@ -44,8 +44,8 @@ O foco é o desenvolvimento de dispositivos tecnológicos baseados no controle d
 
 Se você deseja discutir a não-linearidade do tempo ou apenas enviar uma "comunicação anômala" (fofoca/proposta):
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/elder-emmanuel-pereira-da-silva-069465280/))
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:elder.silva@fis.ufal.br)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/elder-emmanuel-pereira-da-silva-069465280/))
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto)](mailto:elder.silva@fis.ufal.br)
 - [![Lattes](https://img.shields.io/badge/Lattes-CV-00559C?style=for-the-badge&logo=google-scholar&logoColor=white)](http://lattes.cnpq.br/3136018709878801)
 
 ---
