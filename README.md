@@ -13,6 +13,7 @@ Atualmente, estou operando no **Instituto de Física da UFAL**, investigando com
 - 🐛 **Sistemas Defeituosos Silenciados:** 42 (e contando...)
 
 Detectou uma falha na realidade ou no código?
+
 [![Reportar Glitch](https://img.shields.io/badge/REPORTAR_GLITCH_NA_MATRIX-d00000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Euudin/Euudin/issues/new?title=Glitch%20Detectado%3A%20&body=Descreva%20a%20anomalia%20encontrada%20neste%20setor%20da%20realidade.)
 
 #### 🎯 Objetivos da Pesquisa
